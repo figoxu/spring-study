@@ -9,7 +9,6 @@
 1. **类的基本结构**：
 
 ```java
-java
 public class UserHandler implements Handler {
 private static final List<User> USERS = new ArrayList<>();
 private final GraphQL graphql;
